@@ -1,0 +1,6 @@
+@wonderwalkapi_HostAddress = http://localhost:5120
+
+GET {{wonderwalkapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
