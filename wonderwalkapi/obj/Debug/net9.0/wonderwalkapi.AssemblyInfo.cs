@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wonderwalkapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88e5f55c00d7bdcc094b5c3643f668ac613c2958")]
 [assembly: System.Reflection.AssemblyProductAttribute("wonderwalkapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wonderwalkapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
